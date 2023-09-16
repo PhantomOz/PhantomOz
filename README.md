@@ -1,5 +1,27 @@
 # 💫 About Me:
-# Hi there 👋<br><br>I'm Favour Aniogor, a software engineer and web developer from Nigeria. I love creating websites and applications that are fast, beautiful, and user-friendly. I'm passionate about learning new technologies and sharing my knowledge with others.<br><br>## 🔭 I’m currently working on ...<br><br>- A personal portfolio website that showcases my skills and projects.<br>- HIOSC is a community that aims to teach people about tech by building Open Source Projects.<br>- A SocialFi project on the Internet Computer Protocol.<br><br>## 🌱 I’m currently learning ...<br><br>- Move, the programming language for the SUI blockchain.<br>- Aptos, an innovative public blockchain (proof of stake) developed by former Facebook employees, with a primary focus on delivering high throughput and robust security for smart contracts developed using the Move programming language..<br>- Zero Knowledge.<br><br>## 💬 Ask me about ...<br><br>- HTML, CSS, and JavaScript, the core technologies of the web or any Javascript Framework.<br>- Node.js, Express, and MongoDB, a popular stack for building web applications.<br>- Ask me about Solidity, Rust, and Motoko, popular languages for building on the blockchain.<br>- Git and GitHub, the tools for version control and collaboration.<br><br>## 📫 How to reach me ...<br><br>- Email: Faniogor@gmail.com<br>- Twitter: [@AniogorFavour]<br>- LinkedIn: [Favour Aniogor]<br><br>## 😄 Fun facts about me ...<br><br>- I speak three languages: English, Igbo, and Spanish.<br>- I play the guitar.<br>- I enjoy gaming and watching movies.
+# Hi there 👋
+I'm Favour Aniogor, a software engineer and web developer from Nigeria. I love creating websites and applications that are fast, beautiful, and user-friendly. I'm passionate about learning new technologies and sharing my knowledge with others.
+
+## 🔭 I’m currently working on ...
+- A personal portfolio website that showcases my skills and projects.
+- HIOSC is a community that aims to teach people about tech by building Open Source Projects.
+- A SocialFi project on the Internet Computer Protocol.<br><br>## 🌱 I’m currently learning ...<br><br>- Move, the programming language for the SUI blockchain.<br>- Aptos, an innovative public blockchain (proof of stake) developed by former Facebook employees, with a primary focus on delivering high throughput and robust security for smart contracts developed using the Move programming language.
+- Zero Knowledge.
+
+## 💬 Ask me about ...
+- HTML, CSS, and JavaScript, the core technologies of the web or any Javascript Framework.<br>- Node.js, Express, and MongoDB, a popular stack for building web applications.
+- Ask me about Solidity, Rust, and Motoko, popular languages for building on the blockchain.
+- Git and GitHub, the tools for version control and collaboration.
+
+## 📫 How to reach me ...
+- Email: Faniogor@gmail.com
+- Twitter: [@AniogorFavour]
+- LinkedIn: [Favour Aniogor]
+
+## 😄 Fun facts about me ...
+- I speak three languages: English, Igbo, and Spanish.
+- I play the guitar.
+- I enjoy gaming and watching movies.
 
 
 ## 🌐 Socials:
