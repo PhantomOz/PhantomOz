@@ -13,7 +13,8 @@ I'm Favour Aniogor, a software engineer and web developer from Nigeria. I love c
 - Zero Knowledge.
 
 ## 💬 Ask me about ...
-- HTML, CSS, and JavaScript, the core technologies of the web or any Javascript Framework.<br>- Node.js, Express, and MongoDB, a popular stack for building web applications.
+- HTML, CSS, and JavaScript, the core technologies of the web or any Javascript Framework.
+- Node.js, Express, and MongoDB, a popular stack for building web applications.
 - Ask me about Solidity, Rust, and Motoko, popular languages for building on the blockchain.
 - Git and GitHub, the tools for version control and collaboration.
 
