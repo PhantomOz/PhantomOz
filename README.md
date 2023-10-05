@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi there 👋
-I'm Favour Aniogor, a software engineer and web developer from Nigeria. I love creating websites and applications that are fast, beautiful, and user-friendly. I'm passionate about learning new technologies and sharing my knowledge with others.
+I'm Favour Aniogor, a software engineer and blockchain developer from Nigeria. I love creating websites and applications that are fast, beautiful, and user-friendly. I'm passionate about learning new technologies and sharing my knowledge with others.
 
 ## 🔭 I’m currently working on ...
 - A personal portfolio website that showcases my skills and projects.
