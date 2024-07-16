@@ -15,8 +15,6 @@ I'm the amazing one, a software engineer from Nigeria. I love building applicati
 - Email: Faniogor@gmail.com
 
 ## 😄 Fun facts about me ...
-- I play the guitar.
-- I enjoy gaming and watching movies.
 - I do amazing things 😄
 
 
