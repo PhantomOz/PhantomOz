@@ -1,33 +1,52 @@
-# 💫 About Me:
-# Hi there 👋
-I'm the amazing one, a software engineer from Nigeria. I love building applications that are fast, beautiful, and user-friendly. I'm passionate about learning new technologies and sharing my knowledge with others.
+# 👋 Hi, I’m Favour Aniogor
 
-## 🔭 I’m currently working on ...
-#### Amazing Things
+Senior Backend & Blockchain Engineer with 5+ years of software engineering experience and a strong focus on DeFi protocols, smart contract architecture, and blockchain security.
 
-## 🌱 I’m currently learning ...
-#### Amazing Things
+I design and build production-grade backend systems and decentralized protocols, with an emphasis on correctness, security, and scalability. I’ve led protocol development from research to mainnet deployment and actively conduct smart contract security research on audit platforms like Sherlock.
 
-## 💬 Ask me about ...
-#### Amazing Things
+---
 
-## 📫 How to reach me ...
-- Email: Faniogor@gmail.com
+## 🧠 What I Work On
+- DeFi lending and capital market protocols  
+- Smart contract architecture (EVM & non-EVM)  
+- Cross-chain and protocol infrastructure  
+- Backend services for Web3 applications  
+- Smart contract security research & auditing  
 
-## 😄 Fun facts about me ...
-- I do amazing things 😄
+---
 
+## 🔐 Security Research
+I actively research smart contract vulnerabilities and protocol failure modes, with verified findings on Sherlock.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asof_14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/favour-aniogor-3a4932172) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@faniogor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AniogorFavour) 
+- Focus areas: economic exploits, access control, invariants, unsafe assumptions  
+- Methods: manual review, fuzzing, adversarial reasoning, proof-of-concept exploits  
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+🔗 Sherlock profile: https://audits.sherlock.xyz/watson/superdevfavour
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+**Languages:** Solidity, Rust, TypeScript, JavaScript, Python, C#, Yul, Huff, Move
+**Backend:** Node.js, REST APIs, event-driven systems  
+**Blockchain:** Ethereum, EVM, L2s, Starknet, Sui, Aptos
+**Tooling:** Foundry, Hardhat, Anvil, Forge, Ethers.js  
+**Security:** Slither, Echidna, Foundry Fuzzing, Medusa  
+**Infra:** Docker, Kubernetes, AWS, GitHub Actions  
 
-<!---
-PhantomOz/PhantomOz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Selected Work
+- **[Lendbit Finance](https://lendbit.finance)** – Cross-chain DeFi lending protocol  
+- **[BlockSploit](https://blocksploit.xyz)** – AI-driven smart contract security research tool.
+
+---
+
+## 📫 Contact
+- Email: faniogor@gmail.com  
+- GitHub: https://github.com/PhantomOz  
+- LinkedIn: https://www.linkedin.com/in/superdevfavour  
+- Blog: https://superdevfavour.hashnode.dev  
+
+---
+
+> I enjoy working with early-stage startups and protocol teams to design secure, reliable systems that handle real value.
